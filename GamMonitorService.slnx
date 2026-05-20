@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GamMonitorService.App/GamMonitorService.App.csproj" />
+    <Project Path="src/GamMonitorService.Application/GamMonitorService.Application.csproj" />
+    <Project Path="src/GamMonitorService.Dashboard/GamMonitorService.Dashboard.csproj" />
+    <Project Path="src/GamMonitorService.Domain/GamMonitorService.Domain.csproj" />
+    <Project Path="src/GamMonitorService.Infrastructure/GamMonitorService.Infrastructure.csproj" />
+    <Project Path="src/GamMonitorService.Plugins/GamMonitorService.Plugins.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GamMonitorService.Tests/GamMonitorService.Tests.csproj" />
+  </Folder>
+</Solution>
